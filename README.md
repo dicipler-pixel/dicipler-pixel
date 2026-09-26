@@ -31,7 +31,7 @@ Every check builds the proofs, replays them in Lean's independent kernel checker
 | Paper | Supplement |
 | :--- | :--- |
 | *Certified Obstructions and Exact Forcing: Earth–Moon Graph Coloring and Arithmetic Kakeya* · [DOI 10.5281/zenodo.22812168](https://doi.org/10.5281/zenodo.22812168) | [earth-moon-kakeya-certificates](https://github.com/dicipler-pixel/earth-moon-kakeya-certificates): manuscript, certificate producers, independent checkers, re-verified on every push |
-| *The Offset Belongs to the Boundary* | [offset-lean](https://github.com/dicipler-pixel/offset-lean) |
+| *The Offset Belongs to the Boundary* · [DOI 10.5281/zenodo.22555919](https://doi.org/10.5281/zenodo.22555919) | [offset-lean](https://github.com/dicipler-pixel/offset-lean): the Lean proofs of its finite algebra |
 
 ---
 
