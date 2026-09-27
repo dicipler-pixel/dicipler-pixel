@@ -34,12 +34,42 @@ Every check builds the proofs, replays them in Lean's independent kernel checker
 
 ---
 
-### Papers with reproduction supplements
+### Papers
 
-Every paper I have published, 28 records in all, is on Zenodo: [full list](https://zenodo.org/search?q=creators.name%3A%22Beasley%2C%20Jeromie%22&sort=newest). The ones below come with proofs or reproduction code.
+All 28 Zenodo records, newest version first. Each DOI always opens the latest version. Proofs and code are linked where they exist; the rest are being formalized paper by paper.
 
-| Paper | Supplement |
-| :--- | :--- |
+| Paper | Latest | DOI | Proofs / code |
+| :--- | :-: | :--- | :--- |
+| *What Russell Saw: Walter Russell's Universe of Paired Motion, Read Against a Century of Physics* | 2026-09-27 | [10.5281/zenodo.22986656](https://doi.org/10.5281/zenodo.22986656) | [what-russell-saw-lean](https://github.com/dicipler-pixel/what-russell-saw-lean) · 43 Lean theorems |
+| *The Dirac Time of the Gigantefermion: Memory First, Projector Geometry, Retained History, and the Cost of an Arrow* | 2026-09-26 | [10.5281/zenodo.22978630](https://doi.org/10.5281/zenodo.22978630) | [dirac-time-lean](https://github.com/dicipler-pixel/dirac-time-lean) · 86 + 3 Lean theorems |
+| *The Ledger Outlives the Metric: Wall Species, the Reciprocity Obstruction, and a Measured Crossing Behind an Operator-Side Reading of Entropic Gravity* | 2026-09-25 | [10.5281/zenodo.22023237](https://doi.org/10.5281/zenodo.22023237) | [gravity-ledger-lean](https://github.com/dicipler-pixel/gravity-ledger-lean) · 30 Lean theorems |
+| *Five-Dimensional Non-Normal Stability Operator with Gradient-Driven Interface Coupling for Zero-Precursor Filamentary Fractures* | 2026-09-25 | [10.5281/zenodo.21184980](https://doi.org/10.5281/zenodo.21184980) | scripts in the Zenodo deposit |
+| *Certified Obstructions and Exact Forcing: Thickness Bounds, Nine-Colorings, and Integer Dual Certificates for Two Open Benchmarks* | 2026-09-17 | [10.5281/zenodo.22812167](https://doi.org/10.5281/zenodo.22812167) | [earth-moon-kakeya-certificates](https://github.com/dicipler-pixel/earth-moon-kakeya-certificates) · certificates and checkers; [arithmetic-kakeya-finite-bridges](https://github.com/dicipler-pixel/arithmetic-kakeya-finite-bridges) · 33 Lean theorems |
+| *Non-Normality Is Connection Energy* | 2026-09-17 | [10.5281/zenodo.22803572](https://doi.org/10.5281/zenodo.22803572) | [connection-energy-lean](https://github.com/dicipler-pixel/-connection-energy-lean) · 14 Lean theorems |
+| *Compound Eye (research tool)* | 2026-09-09 | [10.5281/zenodo.22674828](https://doi.org/10.5281/zenodo.22674828) | software deposit |
+| *The Offset Belongs to the Boundary: the Trace Split of the Entanglement Hamiltonian, a Measured Clausius Region, and an Offset with No Bulk* | 2026-09-06 | [10.5281/zenodo.22181748](https://doi.org/10.5281/zenodo.22181748) | [offset-lean](https://github.com/dicipler-pixel/offset-lean) · Lean proofs |
+| *What Transport Keeps: Projector Selection, Conserved Pairings, and Spectral Geometry after the Ramanujan Challenge* | 2026-09-06 | [10.5281/zenodo.22543486](https://doi.org/10.5281/zenodo.22543486) | [ramanujan-normality-diagnostic](https://github.com/dicipler-pixel/ramanujan-normality-diagnostic) · diagnostic code |
+| *A Subgraph Density Obstruction to Biplanarity, and the Thickness of Inflated Cycles* | 2026-09-04 | [10.5281/zenodo.22307183](https://doi.org/10.5281/zenodo.22307183) | see [earth-moon-kakeya-certificates](https://github.com/dicipler-pixel/earth-moon-kakeya-certificates) |
+| *Light Keeps the Ledger: Matter, Direction, and the Wall Between Them* | 2026-08-27 | [10.5281/zenodo.22123115](https://doi.org/10.5281/zenodo.22123115) | [light-ledger-lean](https://github.com/dicipler-pixel/light-ledger-lean) · 122 Lean theorems |
+| *The Permutation Coboundary Constant of the Complete Complex Is k/3 for 4 ≤ k ≤ 8* | 2026-08-25 | [10.5281/zenodo.22090958](https://doi.org/10.5281/zenodo.22090958) | — |
+| *The Three-Body Problem, Operator-First: A Complete Spectral Anatomy of Relational Transport on the Shape Sphere* | 2026-08-24 | [10.5281/zenodo.20764188](https://doi.org/10.5281/zenodo.20764188) | — |
+| *Universal Projector Geometry from Electrical Measurements* | 2026-08-21 | [10.5281/zenodo.21305024](https://doi.org/10.5281/zenodo.21305024) | [upg-lean](https://github.com/dicipler-pixel/upg-lean) · 40 Lean theorems |
+| *Matter at a Scale: Zero, Span, and the Logarithm Between Them* | 2026-08-20 | [10.5281/zenodo.22019892](https://doi.org/10.5281/zenodo.22019892) | — |
+| *Transient Structure at Solar Rigidity Interfaces and the Exceptional Point of the Dynamo Wave* | 2026-08-19 | [10.5281/zenodo.21895551](https://doi.org/10.5281/zenodo.21895551) | — |
+| *The Operator-First Relational Atlas* | 2026-08-18 | [10.5281/zenodo.21972561](https://doi.org/10.5281/zenodo.21972561) | — |
+| *Electron Screening in Metal Deuterides: Measurement Systematics, Evolving Target State, and an Experimental Arbitration Protocol* | 2026-08-14 | [10.5281/zenodo.21935285](https://doi.org/10.5281/zenodo.21935285) | — |
+| *The Price of a Direction: Boundary Channel Budgets, Directional Capacity, and Kakeya Structure in Operator Transport* | 2026-08-13 | [10.5281/zenodo.21918463](https://doi.org/10.5281/zenodo.21918463) | — |
+| *Foundational Operator Field Theory on Stratified Manifolds* | 2026-08-09 | [10.5281/zenodo.21254648](https://doi.org/10.5281/zenodo.21254648) | — |
+| *Beyond the Event Horizon: An Operator-First Theory of Persistent Geometry and Black Hole Dynamics* | 2026-08-09 | [10.5281/zenodo.21147366](https://doi.org/10.5281/zenodo.21147366) | — |
+| *Spectral Stress on a Conservative Matrix Field* | 2026-08-08 | [10.5281/zenodo.21825872](https://doi.org/10.5281/zenodo.21825872) | — |
+| *The Square Case: Gram Reduction and Spectral Transport for N = d + 1 Bodies* | 2026-08-08 | [10.5281/zenodo.21855590](https://doi.org/10.5281/zenodo.21855590) | [square-case-lean](https://github.com/dicipler-pixel/square-case-lean) · 63 Lean theorems |
+| *Intrinsic Quantum Geometric Tensor on the Grassmannian and Spectral Lower Bounds on Dissipation* | 2026-08-05 | [10.5281/zenodo.20768258](https://doi.org/10.5281/zenodo.20768258) | — |
+| *The Companion-Matrix Projector Diagnostic* | 2026-08-05 | [10.5281/zenodo.21787207](https://doi.org/10.5281/zenodo.21787207) | [ramanujan-normality-diagnostic](https://github.com/dicipler-pixel/ramanujan-normality-diagnostic) · diagnostic code |
+| *Intrinsic Emergent Transport Geometry: Emergent Metrics from Spectral Projector Hierarchies* | 2026-07-01 | [10.5281/zenodo.21089303](https://doi.org/10.5281/zenodo.21089303) | — |
+| *Spectral Stability Across Obstruction Interfaces in Geometric Transport Systems* | 2026-06-24 | [10.5281/zenodo.20818899](https://doi.org/10.5281/zenodo.20818899) | — |
+| *The 5D Spectral Anatomy of Four-Body Obstructions: Kinematic Transport Geometry on Stratified Shape Manifolds* | 2026-06-23 | [10.5281/zenodo.20818168](https://doi.org/10.5281/zenodo.20818168) | [square-case-lean](https://github.com/dicipler-pixel/square-case-lean) · binary-wall proofs |
+
+--- | :--- |
 | *Certified Obstructions and Exact Forcing: Earth–Moon Graph Coloring and Arithmetic Kakeya* · [DOI 10.5281/zenodo.22812167](https://doi.org/10.5281/zenodo.22812167) | [earth-moon-kakeya-certificates](https://github.com/dicipler-pixel/earth-moon-kakeya-certificates): manuscript, certificate producers, independent checkers, re-verified on every push |
 | *The Offset Belongs to the Boundary* · [DOI 10.5281/zenodo.22181748](https://doi.org/10.5281/zenodo.22181748) | [offset-lean](https://github.com/dicipler-pixel/offset-lean): the Lean proofs of its finite algebra |
 | *What Russell Saw: Walter Russell's Universe of Paired Motion, Read Against a Century of Physics* · [DOI 10.5281/zenodo.22986656](https://doi.org/10.5281/zenodo.22986656) | [what-russell-saw-lean](https://github.com/dicipler-pixel/what-russell-saw-lean): 43 Lean proofs, three built on Physlib; paper, mixer, ledger and scripts in the Zenodo deposit |
