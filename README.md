@@ -36,14 +36,14 @@ Every check builds the proofs, replays them in Lean's independent kernel checker
 
 | Paper | Supplement |
 | :--- | :--- |
-| *Certified Obstructions and Exact Forcing: Earth–Moon Graph Coloring and Arithmetic Kakeya* · [DOI 10.5281/zenodo.22812168](https://doi.org/10.5281/zenodo.22812168) | [earth-moon-kakeya-certificates](https://github.com/dicipler-pixel/earth-moon-kakeya-certificates): manuscript, certificate producers, independent checkers, re-verified on every push |
-| *The Offset Belongs to the Boundary* · [DOI 10.5281/zenodo.22555919](https://doi.org/10.5281/zenodo.22555919) | [offset-lean](https://github.com/dicipler-pixel/offset-lean): the Lean proofs of its finite algebra |
-| *The Dirac Time of the Gigantefermion* · [DOI 10.5281/zenodo.22978631](https://doi.org/10.5281/zenodo.22978631) | [dirac-time-lean](https://github.com/dicipler-pixel/dirac-time-lean): Lean proofs of every exact finite result in the paper |
-| *Light Keeps the Ledger* · [DOI 10.5281/zenodo.22124938](https://doi.org/10.5281/zenodo.22124938) | [light-ledger-lean](https://github.com/dicipler-pixel/light-ledger-lean): Lean proofs |
-| *The Ledger Outlives the Metric* · [DOI 10.5281/zenodo.22088625](https://doi.org/10.5281/zenodo.22088625) | [gravity-ledger-lean](https://github.com/dicipler-pixel/gravity-ledger-lean): Lean proofs |
-| *The Square Case: Gram Reduction and Spectral Transport for N = d + 1 Bodies* · [DOI 10.5281/zenodo.21855591](https://doi.org/10.5281/zenodo.21855591) | [square-case-lean](https://github.com/dicipler-pixel/square-case-lean): Lean proofs |
-| *5D Spectral Anatomy of Four-Body Obstructions* · [DOI 10.5281/zenodo.20818169](https://doi.org/10.5281/zenodo.20818169) | [square-case-lean](https://github.com/dicipler-pixel/square-case-lean): Lean proofs of the binary-wall algebra |
-| *Universal Projector Geometry from Electrical Measurements* · [DOI 10.5281/zenodo.22045735](https://doi.org/10.5281/zenodo.22045735) | [upg-lean](https://github.com/dicipler-pixel/upg-lean): Lean proofs |
+| *Certified Obstructions and Exact Forcing: Earth–Moon Graph Coloring and Arithmetic Kakeya* · [DOI 10.5281/zenodo.22812167](https://doi.org/10.5281/zenodo.22812167) | [earth-moon-kakeya-certificates](https://github.com/dicipler-pixel/earth-moon-kakeya-certificates): manuscript, certificate producers, independent checkers, re-verified on every push |
+| *The Offset Belongs to the Boundary* · [DOI 10.5281/zenodo.22181748](https://doi.org/10.5281/zenodo.22181748) | [offset-lean](https://github.com/dicipler-pixel/offset-lean): the Lean proofs of its finite algebra |
+| *The Dirac Time of the Gigantefermion* · [DOI 10.5281/zenodo.22978630](https://doi.org/10.5281/zenodo.22978630) | [dirac-time-lean](https://github.com/dicipler-pixel/dirac-time-lean): Lean proofs of every exact finite result in the paper |
+| *Light Keeps the Ledger* · [DOI 10.5281/zenodo.22123115](https://doi.org/10.5281/zenodo.22123115) | [light-ledger-lean](https://github.com/dicipler-pixel/light-ledger-lean): Lean proofs |
+| *The Ledger Outlives the Metric* · [DOI 10.5281/zenodo.22023237](https://doi.org/10.5281/zenodo.22023237) | [gravity-ledger-lean](https://github.com/dicipler-pixel/gravity-ledger-lean): Lean proofs |
+| *The Square Case: Gram Reduction and Spectral Transport for N = d + 1 Bodies* · [DOI 10.5281/zenodo.21855590](https://doi.org/10.5281/zenodo.21855590) | [square-case-lean](https://github.com/dicipler-pixel/square-case-lean): Lean proofs |
+| *5D Spectral Anatomy of Four-Body Obstructions* · [DOI 10.5281/zenodo.20818168](https://doi.org/10.5281/zenodo.20818168) | [square-case-lean](https://github.com/dicipler-pixel/square-case-lean): Lean proofs of the binary-wall algebra |
+| *Universal Projector Geometry from Electrical Measurements* · [DOI 10.5281/zenodo.21305024](https://doi.org/10.5281/zenodo.21305024) | [upg-lean](https://github.com/dicipler-pixel/upg-lean): Lean proofs |
 
 ---
 
