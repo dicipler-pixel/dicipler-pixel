@@ -91,3 +91,7 @@ All 28 Zenodo records, newest version first. Each DOI always opens the latest ve
 
 - [**rhythm-game-one**](https://github.com/dicipler-pixel/rhythm-game-one): a four-key rhythm game in plain HTML, Canvas and Web Audio.
 - [**Oceans-Journey**](https://github.com/dicipler-pixel/Oceans-Journey): a small ocean adventure game.
+
+---
+
+Copyright (c) 2026 Jeromie Beasley. Code and proofs: [MIT](LICENSE). Written text: [CC BY 4.0](LICENSE-CC-BY-4.0.md). See [`LICENSING.md`](LICENSING.md).
