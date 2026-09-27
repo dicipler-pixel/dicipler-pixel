@@ -34,7 +34,7 @@ Every check builds the proofs, replays them in Lean's independent kernel checker
 
 ### Papers with reproduction supplements
 
-Every paper I have published, 27 records in all, is on Zenodo: [full list](https://zenodo.org/search?q=creators.name%3A%22Beasley%2C%20Jeromie%22&sort=newest). The ones below come with proofs or reproduction code.
+Every paper I have published, 28 records in all, is on Zenodo: [full list](https://zenodo.org/search?q=creators.name%3A%22Beasley%2C%20Jeromie%22&sort=newest). The ones below come with proofs or reproduction code.
 
 | Paper | Supplement |
 | :--- | :--- |
